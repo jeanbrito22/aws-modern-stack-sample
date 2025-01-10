@@ -1,0 +1,4 @@
+# Specific dependencies for diagrams
+
+diagrams==0.24.1
+graphviz==0.20.3
